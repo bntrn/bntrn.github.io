@@ -1,0 +1,39 @@
+html {
+    font-size: 18px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'EB Garamond', serif;
+    background-color: #EFEE89;
+
+}
+
+h1 {
+    font-family: Josefin Sans;
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: black;
+    text-shadow: 3px 3px 1px #EFEE89;
+}
+
+p, li {
+    font-family: EB Garamond;
+    font-size: 18px;
+    line-height: 1;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #37B837;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
